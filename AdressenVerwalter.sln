@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdressenVerwalter", "AdressenVerwalter\AdressenVerwalter.csproj", "{84D9A52E-23AE-4FD9-89E2-BCD576AA543A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D9A52E-23AE-4FD9-89E2-BCD576AA543A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D9A52E-23AE-4FD9-89E2-BCD576AA543A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D9A52E-23AE-4FD9-89E2-BCD576AA543A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D9A52E-23AE-4FD9-89E2-BCD576AA543A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598B70BF-5EDA-4E73-B072-D0FF7B6E77E0}
+	EndGlobalSection
+EndGlobal
